@@ -68,10 +68,10 @@ npm install mineflayer
 
  * Нужно отредактировать это в файле:
 
-```js
-host: "localhost",
-port: "25565",
-username: "Test"
+```jsz
+host: "SlayerSmp2.aternos.me",
+port: "18650",
+username: "Nalla2"
 ```
  * node main.js
 
